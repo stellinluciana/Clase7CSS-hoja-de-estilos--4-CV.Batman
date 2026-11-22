@@ -7,10 +7,11 @@ header {
 h1 {
     background-color: #C4C4C4;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: 700;
+    font-weight: bold;
+    font-size: 35px;
     color: #005677;
     font-style: normal;
-    
+  
 }
 /* Cambiar color de fondo y tipografía a los subtítulos*/
 h2 {
